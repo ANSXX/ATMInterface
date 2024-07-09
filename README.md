@@ -29,11 +29,3 @@ To run the ATM Interface locally:
 1. Follow the on-screen instructions to login with your user ID and PIN.
 2. Navigate through the options to manage your account and perform transactions.
 3. Ensure to logout securely after using the ATM interface.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests to enhance the functionality or fix any issues.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
